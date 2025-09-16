@@ -1,20 +1,20 @@
 [
     {
-        "id": 50470597114,
-        "run_id": 17760074149,
+        "id": 50475719889,
+        "run_id": 17761694624,
         "workflow_name": "CI",
-        "head_branch": "master",
-        "run_url": "https://api.github.com/repos/olliwang/hunter/actions/runs/17760074149",
+        "head_branch": "OpenSSL",
+        "run_url": "https://api.github.com/repos/olliwang/hunter/actions/runs/17761694624",
         "run_attempt": 1,
-        "node_id": "CR_kwDOD6UAVs8AAAALwEgx-g",
-        "head_sha": "4e67b3051771857027d519dbb9f6854858d72fdb",
-        "url": "https://api.github.com/repos/olliwang/hunter/actions/jobs/50470597114",
-        "html_url": "https://github.com/olliwang/hunter/actions/runs/17760074149/job/50470597114",
+        "node_id": "CR_kwDOD6UAVs8AAAALwJZc0Q",
+        "head_sha": "93f8fa9accb8cb5c83c7ee4d82fc3aa24900dae6",
+        "url": "https://api.github.com/repos/olliwang/hunter/actions/jobs/50475719889",
+        "html_url": "https://github.com/olliwang/hunter/actions/runs/17761694624/job/50475719889",
         "status": "completed",
         "conclusion": "success",
-        "created_at": "2025-09-16T08:42:45Z",
-        "started_at": "2025-09-16T08:42:49Z",
-        "completed_at": "2025-09-16T08:43:18Z",
+        "created_at": "2025-09-16T09:44:14Z",
+        "started_at": "2025-09-16T09:44:17Z",
+        "completed_at": "2025-09-16T09:45:31Z",
         "name": "check_urls",
         "steps": [
             {
@@ -22,72 +22,72 @@
                 "status": "completed",
                 "conclusion": "success",
                 "number": 1,
-                "started_at": "2025-09-16T08:42:49Z",
-                "completed_at": "2025-09-16T08:42:50Z"
+                "started_at": "2025-09-16T09:44:18Z",
+                "completed_at": "2025-09-16T09:44:19Z"
             },
             {
                 "name": "Git checkout",
                 "status": "completed",
                 "conclusion": "success",
                 "number": 2,
-                "started_at": "2025-09-16T08:42:50Z",
-                "completed_at": "2025-09-16T08:42:51Z"
+                "started_at": "2025-09-16T09:44:19Z",
+                "completed_at": "2025-09-16T09:44:20Z"
             },
             {
                 "name": "Manual dispatch, get project name from input",
                 "status": "completed",
                 "conclusion": "skipped",
                 "number": 3,
-                "started_at": "2025-09-16T08:42:51Z",
-                "completed_at": "2025-09-16T08:42:51Z"
+                "started_at": "2025-09-16T09:44:20Z",
+                "completed_at": "2025-09-16T09:44:20Z"
             },
             {
                 "name": "Get changed files and save them to ${HOME}/files.json",
                 "status": "completed",
                 "conclusion": "success",
                 "number": 4,
-                "started_at": "2025-09-16T08:42:51Z",
-                "completed_at": "2025-09-16T08:42:52Z"
+                "started_at": "2025-09-16T09:44:20Z",
+                "completed_at": "2025-09-16T09:44:21Z"
             },
             {
                 "name": "Install dependencies",
                 "status": "completed",
                 "conclusion": "success",
                 "number": 5,
-                "started_at": "2025-09-16T08:42:52Z",
-                "completed_at": "2025-09-16T08:43:00Z"
+                "started_at": "2025-09-16T09:44:21Z",
+                "completed_at": "2025-09-16T09:44:50Z"
             },
             {
                 "name": "Check changed projects for working URLs",
                 "status": "completed",
                 "conclusion": "success",
                 "number": 6,
-                "started_at": "2025-09-16T08:43:00Z",
-                "completed_at": "2025-09-16T08:43:16Z"
+                "started_at": "2025-09-16T09:44:50Z",
+                "completed_at": "2025-09-16T09:45:28Z"
             },
             {
                 "name": "Post Git checkout",
                 "status": "completed",
                 "conclusion": "success",
                 "number": 12,
-                "started_at": "2025-09-16T08:43:16Z",
-                "completed_at": "2025-09-16T08:43:16Z"
+                "started_at": "2025-09-16T09:45:28Z",
+                "completed_at": "2025-09-16T09:45:29Z"
             },
             {
                 "name": "Complete job",
                 "status": "completed",
                 "conclusion": "success",
                 "number": 13,
-                "started_at": "2025-09-16T08:43:16Z",
-                "completed_at": "2025-09-16T08:43:16Z"
+                "started_at": "2025-09-16T09:45:29Z",
+                "completed_at": "2025-09-16T09:45:29Z"
             }
         ],
-        "check_run_url": "https://api.github.com/repos/olliwang/hunter/check-runs/50470597114",
+        "check_run_url": "https://api.github.com/repos/olliwang/hunter/check-runs/50475719889",
         "labels": [
             "ubuntu-latest"
         ],
-        "runner_id": 1000000148,
-        "runner_name": "GitHub Actions 1000000148",
+        "runner_id": 1000000348,
+        "runner_name": "GitHub Actions 1000000348",
         "runner_group_id": 0,
         "runner_group_name": "GitHub Actions"
     }
