@@ -1,0 +1,1510 @@
+[
+    {
+        "id": 50470610810,
+        "run_id": 17760074149,
+        "workflow_name": "CI",
+        "head_branch": "master",
+        "run_url": "https://api.github.com/repos/olliwang/hunter/actions/runs/17760074149",
+        "run_attempt": 1,
+        "node_id": "CR_kwDOD6UAVs8AAAALwEhneg",
+        "head_sha": "4e67b3051771857027d519dbb9f6854858d72fdb",
+        "url": "https://api.github.com/repos/olliwang/hunter/actions/jobs/50470610810",
+        "html_url": "https://github.com/olliwang/hunter/actions/runs/17760074149/job/50470610810",
+        "status": "completed",
+        "conclusion": "success",
+        "created_at": "2025-09-16T08:42:55Z",
+        "started_at": "2025-09-16T08:47:31Z",
+        "completed_at": "2025-09-16T08:48:03Z",
+        "name": "nlohmann_json android-ndk-api-35-arm64-v8a-libcxx14 ubuntu-24.04",
+        "steps": [
+            {
+                "name": "Set up job",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 1,
+                "started_at": "2025-09-16T08:47:32Z",
+                "completed_at": "2025-09-16T08:47:33Z"
+            },
+            {
+                "name": "Git checkout with submodules",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 2,
+                "started_at": "2025-09-16T08:47:33Z",
+                "completed_at": "2025-09-16T08:47:36Z"
+            },
+            {
+                "name": "Download all workflow run artifacts",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 3,
+                "started_at": "2025-09-16T08:47:36Z",
+                "completed_at": "2025-09-16T08:47:36Z"
+            },
+            {
+                "name": "Set up Python",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 4,
+                "started_at": "2025-09-16T08:47:36Z",
+                "completed_at": "2025-09-16T08:47:37Z"
+            },
+            {
+                "name": "Set up Python environment variable (Unix)",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 5,
+                "started_at": "2025-09-16T08:47:37Z",
+                "completed_at": "2025-09-16T08:47:37Z"
+            },
+            {
+                "name": "Set up Python environment variable (Windows)",
+                "status": "completed",
+                "conclusion": "skipped",
+                "number": 6,
+                "started_at": "2025-09-16T08:47:37Z",
+                "completed_at": "2025-09-16T08:47:37Z"
+            },
+            {
+                "name": "Build on Unix",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 7,
+                "started_at": "2025-09-16T08:47:37Z",
+                "completed_at": "2025-09-16T08:48:02Z"
+            },
+            {
+                "name": "Build on Windows",
+                "status": "completed",
+                "conclusion": "skipped",
+                "number": 8,
+                "started_at": "2025-09-16T08:48:02Z",
+                "completed_at": "2025-09-16T08:48:02Z"
+            },
+            {
+                "name": "Post Set up Python",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 15,
+                "started_at": "2025-09-16T08:48:02Z",
+                "completed_at": "2025-09-16T08:48:02Z"
+            },
+            {
+                "name": "Post Git checkout with submodules",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 16,
+                "started_at": "2025-09-16T08:48:02Z",
+                "completed_at": "2025-09-16T08:48:02Z"
+            },
+            {
+                "name": "Complete job",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 17,
+                "started_at": "2025-09-16T08:48:02Z",
+                "completed_at": "2025-09-16T08:48:02Z"
+            }
+        ],
+        "check_run_url": "https://api.github.com/repos/olliwang/hunter/check-runs/50470610810",
+        "labels": [
+            "ubuntu-24.04"
+        ],
+        "runner_id": 1000000189,
+        "runner_name": "GitHub Actions 1000000189",
+        "runner_group_id": 0,
+        "runner_group_name": "GitHub Actions"
+    },
+    {
+        "id": 50470610797,
+        "run_id": 17760074149,
+        "workflow_name": "CI",
+        "head_branch": "master",
+        "run_url": "https://api.github.com/repos/olliwang/hunter/actions/runs/17760074149",
+        "run_attempt": 1,
+        "node_id": "CR_kwDOD6UAVs8AAAALwEhnbQ",
+        "head_sha": "4e67b3051771857027d519dbb9f6854858d72fdb",
+        "url": "https://api.github.com/repos/olliwang/hunter/actions/jobs/50470610797",
+        "html_url": "https://github.com/olliwang/hunter/actions/runs/17760074149/job/50470610797",
+        "status": "completed",
+        "conclusion": "success",
+        "created_at": "2025-09-16T08:42:55Z",
+        "started_at": "2025-09-16T08:42:59Z",
+        "completed_at": "2025-09-16T08:43:23Z",
+        "name": "nlohmann_json clang-cxx17 ubuntu-24.04",
+        "steps": [
+            {
+                "name": "Set up job",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 1,
+                "started_at": "2025-09-16T08:42:59Z",
+                "completed_at": "2025-09-16T08:43:01Z"
+            },
+            {
+                "name": "Git checkout with submodules",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 2,
+                "started_at": "2025-09-16T08:43:01Z",
+                "completed_at": "2025-09-16T08:43:04Z"
+            },
+            {
+                "name": "Download all workflow run artifacts",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 3,
+                "started_at": "2025-09-16T08:43:04Z",
+                "completed_at": "2025-09-16T08:43:04Z"
+            },
+            {
+                "name": "Set up Python",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 4,
+                "started_at": "2025-09-16T08:43:04Z",
+                "completed_at": "2025-09-16T08:43:04Z"
+            },
+            {
+                "name": "Set up Python environment variable (Unix)",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 5,
+                "started_at": "2025-09-16T08:43:04Z",
+                "completed_at": "2025-09-16T08:43:04Z"
+            },
+            {
+                "name": "Set up Python environment variable (Windows)",
+                "status": "completed",
+                "conclusion": "skipped",
+                "number": 6,
+                "started_at": "2025-09-16T08:43:04Z",
+                "completed_at": "2025-09-16T08:43:04Z"
+            },
+            {
+                "name": "Build on Unix",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 7,
+                "started_at": "2025-09-16T08:43:04Z",
+                "completed_at": "2025-09-16T08:43:21Z"
+            },
+            {
+                "name": "Build on Windows",
+                "status": "completed",
+                "conclusion": "skipped",
+                "number": 8,
+                "started_at": "2025-09-16T08:43:21Z",
+                "completed_at": "2025-09-16T08:43:21Z"
+            },
+            {
+                "name": "Post Set up Python",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 15,
+                "started_at": "2025-09-16T08:43:21Z",
+                "completed_at": "2025-09-16T08:43:21Z"
+            },
+            {
+                "name": "Post Git checkout with submodules",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 16,
+                "started_at": "2025-09-16T08:43:21Z",
+                "completed_at": "2025-09-16T08:43:22Z"
+            },
+            {
+                "name": "Complete job",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 17,
+                "started_at": "2025-09-16T08:43:22Z",
+                "completed_at": "2025-09-16T08:43:22Z"
+            }
+        ],
+        "check_run_url": "https://api.github.com/repos/olliwang/hunter/check-runs/50470610797",
+        "labels": [
+            "ubuntu-24.04"
+        ],
+        "runner_id": 1000000158,
+        "runner_name": "GitHub Actions 1000000158",
+        "runner_group_id": 0,
+        "runner_group_name": "GitHub Actions"
+    },
+    {
+        "id": 50470610804,
+        "run_id": 17760074149,
+        "workflow_name": "CI",
+        "head_branch": "master",
+        "run_url": "https://api.github.com/repos/olliwang/hunter/actions/runs/17760074149",
+        "run_attempt": 1,
+        "node_id": "CR_kwDOD6UAVs8AAAALwEhndA",
+        "head_sha": "4e67b3051771857027d519dbb9f6854858d72fdb",
+        "url": "https://api.github.com/repos/olliwang/hunter/actions/jobs/50470610804",
+        "html_url": "https://github.com/olliwang/hunter/actions/runs/17760074149/job/50470610804",
+        "status": "completed",
+        "conclusion": "success",
+        "created_at": "2025-09-16T08:42:55Z",
+        "started_at": "2025-09-16T08:42:59Z",
+        "completed_at": "2025-09-16T08:43:21Z",
+        "name": "nlohmann_json gcc-12-cxx17 ubuntu-24.04",
+        "steps": [
+            {
+                "name": "Set up job",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 1,
+                "started_at": "2025-09-16T08:42:59Z",
+                "completed_at": "2025-09-16T08:43:01Z"
+            },
+            {
+                "name": "Git checkout with submodules",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 2,
+                "started_at": "2025-09-16T08:43:01Z",
+                "completed_at": "2025-09-16T08:43:03Z"
+            },
+            {
+                "name": "Download all workflow run artifacts",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 3,
+                "started_at": "2025-09-16T08:43:03Z",
+                "completed_at": "2025-09-16T08:43:03Z"
+            },
+            {
+                "name": "Set up Python",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 4,
+                "started_at": "2025-09-16T08:43:03Z",
+                "completed_at": "2025-09-16T08:43:04Z"
+            },
+            {
+                "name": "Set up Python environment variable (Unix)",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 5,
+                "started_at": "2025-09-16T08:43:04Z",
+                "completed_at": "2025-09-16T08:43:04Z"
+            },
+            {
+                "name": "Set up Python environment variable (Windows)",
+                "status": "completed",
+                "conclusion": "skipped",
+                "number": 6,
+                "started_at": "2025-09-16T08:43:04Z",
+                "completed_at": "2025-09-16T08:43:04Z"
+            },
+            {
+                "name": "Build on Unix",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 7,
+                "started_at": "2025-09-16T08:43:04Z",
+                "completed_at": "2025-09-16T08:43:19Z"
+            },
+            {
+                "name": "Build on Windows",
+                "status": "completed",
+                "conclusion": "skipped",
+                "number": 8,
+                "started_at": "2025-09-16T08:43:19Z",
+                "completed_at": "2025-09-16T08:43:19Z"
+            },
+            {
+                "name": "Post Set up Python",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 15,
+                "started_at": "2025-09-16T08:43:19Z",
+                "completed_at": "2025-09-16T08:43:19Z"
+            },
+            {
+                "name": "Post Git checkout with submodules",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 16,
+                "started_at": "2025-09-16T08:43:19Z",
+                "completed_at": "2025-09-16T08:43:19Z"
+            },
+            {
+                "name": "Complete job",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 17,
+                "started_at": "2025-09-16T08:43:19Z",
+                "completed_at": "2025-09-16T08:43:19Z"
+            }
+        ],
+        "check_run_url": "https://api.github.com/repos/olliwang/hunter/check-runs/50470610804",
+        "labels": [
+            "ubuntu-24.04"
+        ],
+        "runner_id": 1000000162,
+        "runner_name": "GitHub Actions 1000000162",
+        "runner_group_id": 0,
+        "runner_group_name": "GitHub Actions"
+    },
+    {
+        "id": 50470610785,
+        "run_id": 17760074149,
+        "workflow_name": "CI",
+        "head_branch": "master",
+        "run_url": "https://api.github.com/repos/olliwang/hunter/actions/runs/17760074149",
+        "run_attempt": 1,
+        "node_id": "CR_kwDOD6UAVs8AAAALwEhnYQ",
+        "head_sha": "4e67b3051771857027d519dbb9f6854858d72fdb",
+        "url": "https://api.github.com/repos/olliwang/hunter/actions/jobs/50470610785",
+        "html_url": "https://github.com/olliwang/hunter/actions/runs/17760074149/job/50470610785",
+        "status": "completed",
+        "conclusion": "success",
+        "created_at": "2025-09-16T08:42:55Z",
+        "started_at": "2025-09-16T08:42:59Z",
+        "completed_at": "2025-09-16T08:43:24Z",
+        "name": "nlohmann_json gcc-13-cxx17-fpic ubuntu-24.04",
+        "steps": [
+            {
+                "name": "Set up job",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 1,
+                "started_at": "2025-09-16T08:43:00Z",
+                "completed_at": "2025-09-16T08:43:02Z"
+            },
+            {
+                "name": "Git checkout with submodules",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 2,
+                "started_at": "2025-09-16T08:43:02Z",
+                "completed_at": "2025-09-16T08:43:06Z"
+            },
+            {
+                "name": "Download all workflow run artifacts",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 3,
+                "started_at": "2025-09-16T08:43:06Z",
+                "completed_at": "2025-09-16T08:43:07Z"
+            },
+            {
+                "name": "Set up Python",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 4,
+                "started_at": "2025-09-16T08:43:07Z",
+                "completed_at": "2025-09-16T08:43:07Z"
+            },
+            {
+                "name": "Set up Python environment variable (Unix)",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 5,
+                "started_at": "2025-09-16T08:43:07Z",
+                "completed_at": "2025-09-16T08:43:07Z"
+            },
+            {
+                "name": "Set up Python environment variable (Windows)",
+                "status": "completed",
+                "conclusion": "skipped",
+                "number": 6,
+                "started_at": "2025-09-16T08:43:07Z",
+                "completed_at": "2025-09-16T08:43:07Z"
+            },
+            {
+                "name": "Build on Unix",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 7,
+                "started_at": "2025-09-16T08:43:07Z",
+                "completed_at": "2025-09-16T08:43:21Z"
+            },
+            {
+                "name": "Build on Windows",
+                "status": "completed",
+                "conclusion": "skipped",
+                "number": 8,
+                "started_at": "2025-09-16T08:43:21Z",
+                "completed_at": "2025-09-16T08:43:21Z"
+            },
+            {
+                "name": "Post Set up Python",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 15,
+                "started_at": "2025-09-16T08:43:21Z",
+                "completed_at": "2025-09-16T08:43:22Z"
+            },
+            {
+                "name": "Post Git checkout with submodules",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 16,
+                "started_at": "2025-09-16T08:43:22Z",
+                "completed_at": "2025-09-16T08:43:22Z"
+            },
+            {
+                "name": "Complete job",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 17,
+                "started_at": "2025-09-16T08:43:22Z",
+                "completed_at": "2025-09-16T08:43:22Z"
+            }
+        ],
+        "check_run_url": "https://api.github.com/repos/olliwang/hunter/check-runs/50470610785",
+        "labels": [
+            "ubuntu-24.04"
+        ],
+        "runner_id": 1000000153,
+        "runner_name": "GitHub Actions 1000000153",
+        "runner_group_id": 0,
+        "runner_group_name": "GitHub Actions"
+    },
+    {
+        "id": 50470610787,
+        "run_id": 17760074149,
+        "workflow_name": "CI",
+        "head_branch": "master",
+        "run_url": "https://api.github.com/repos/olliwang/hunter/actions/runs/17760074149",
+        "run_attempt": 1,
+        "node_id": "CR_kwDOD6UAVs8AAAALwEhnYw",
+        "head_sha": "4e67b3051771857027d519dbb9f6854858d72fdb",
+        "url": "https://api.github.com/repos/olliwang/hunter/actions/jobs/50470610787",
+        "html_url": "https://github.com/olliwang/hunter/actions/runs/17760074149/job/50470610787",
+        "status": "completed",
+        "conclusion": "success",
+        "created_at": "2025-09-16T08:42:55Z",
+        "started_at": "2025-09-16T09:00:51Z",
+        "completed_at": "2025-09-16T09:01:08Z",
+        "name": "nlohmann_json gcc-14-cxx17-fpic ubuntu-24.04",
+        "steps": [
+            {
+                "name": "Set up job",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 1,
+                "started_at": "2025-09-16T09:00:52Z",
+                "completed_at": "2025-09-16T09:00:53Z"
+            },
+            {
+                "name": "Git checkout with submodules",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 2,
+                "started_at": "2025-09-16T09:00:53Z",
+                "completed_at": "2025-09-16T09:00:55Z"
+            },
+            {
+                "name": "Download all workflow run artifacts",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 3,
+                "started_at": "2025-09-16T09:00:55Z",
+                "completed_at": "2025-09-16T09:00:56Z"
+            },
+            {
+                "name": "Set up Python",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 4,
+                "started_at": "2025-09-16T09:00:56Z",
+                "completed_at": "2025-09-16T09:00:56Z"
+            },
+            {
+                "name": "Set up Python environment variable (Unix)",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 5,
+                "started_at": "2025-09-16T09:00:56Z",
+                "completed_at": "2025-09-16T09:00:56Z"
+            },
+            {
+                "name": "Set up Python environment variable (Windows)",
+                "status": "completed",
+                "conclusion": "skipped",
+                "number": 6,
+                "started_at": "2025-09-16T09:00:56Z",
+                "completed_at": "2025-09-16T09:00:56Z"
+            },
+            {
+                "name": "Build on Unix",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 7,
+                "started_at": "2025-09-16T09:00:56Z",
+                "completed_at": "2025-09-16T09:01:07Z"
+            },
+            {
+                "name": "Build on Windows",
+                "status": "completed",
+                "conclusion": "skipped",
+                "number": 8,
+                "started_at": "2025-09-16T09:01:07Z",
+                "completed_at": "2025-09-16T09:01:07Z"
+            },
+            {
+                "name": "Post Set up Python",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 15,
+                "started_at": "2025-09-16T09:01:07Z",
+                "completed_at": "2025-09-16T09:01:07Z"
+            },
+            {
+                "name": "Post Git checkout with submodules",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 16,
+                "started_at": "2025-09-16T09:01:07Z",
+                "completed_at": "2025-09-16T09:01:07Z"
+            },
+            {
+                "name": "Complete job",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 17,
+                "started_at": "2025-09-16T09:01:07Z",
+                "completed_at": "2025-09-16T09:01:07Z"
+            }
+        ],
+        "check_run_url": "https://api.github.com/repos/olliwang/hunter/check-runs/50470610787",
+        "labels": [
+            "ubuntu-24.04"
+        ],
+        "runner_id": 1000000232,
+        "runner_name": "GitHub Actions 1000000232",
+        "runner_group_id": 0,
+        "runner_group_name": "GitHub Actions"
+    },
+    {
+        "id": 50470610794,
+        "run_id": 17760074149,
+        "workflow_name": "CI",
+        "head_branch": "master",
+        "run_url": "https://api.github.com/repos/olliwang/hunter/actions/runs/17760074149",
+        "run_attempt": 1,
+        "node_id": "CR_kwDOD6UAVs8AAAALwEhnag",
+        "head_sha": "4e67b3051771857027d519dbb9f6854858d72fdb",
+        "url": "https://api.github.com/repos/olliwang/hunter/actions/jobs/50470610794",
+        "html_url": "https://github.com/olliwang/hunter/actions/runs/17760074149/job/50470610794",
+        "status": "completed",
+        "conclusion": "success",
+        "created_at": "2025-09-16T08:42:55Z",
+        "started_at": "2025-09-16T08:43:23Z",
+        "completed_at": "2025-09-16T08:43:50Z",
+        "name": "nlohmann_json ios-nocodesign-17-5-arm64-cxx17 macos-15",
+        "steps": [
+            {
+                "name": "Set up job",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 1,
+                "started_at": "2025-09-16T08:43:24Z",
+                "completed_at": "2025-09-16T08:43:26Z"
+            },
+            {
+                "name": "Git checkout with submodules",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 2,
+                "started_at": "2025-09-16T08:43:26Z",
+                "completed_at": "2025-09-16T08:43:33Z"
+            },
+            {
+                "name": "Download all workflow run artifacts",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 3,
+                "started_at": "2025-09-16T08:43:33Z",
+                "completed_at": "2025-09-16T08:43:34Z"
+            },
+            {
+                "name": "Set up Python",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 4,
+                "started_at": "2025-09-16T08:43:34Z",
+                "completed_at": "2025-09-16T08:43:34Z"
+            },
+            {
+                "name": "Set up Python environment variable (Unix)",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 5,
+                "started_at": "2025-09-16T08:43:34Z",
+                "completed_at": "2025-09-16T08:43:34Z"
+            },
+            {
+                "name": "Set up Python environment variable (Windows)",
+                "status": "completed",
+                "conclusion": "skipped",
+                "number": 6,
+                "started_at": "2025-09-16T08:43:34Z",
+                "completed_at": "2025-09-16T08:43:34Z"
+            },
+            {
+                "name": "Build on Unix",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 7,
+                "started_at": "2025-09-16T08:43:34Z",
+                "completed_at": "2025-09-16T08:43:46Z"
+            },
+            {
+                "name": "Build on Windows",
+                "status": "completed",
+                "conclusion": "skipped",
+                "number": 8,
+                "started_at": "2025-09-16T08:43:46Z",
+                "completed_at": "2025-09-16T08:43:46Z"
+            },
+            {
+                "name": "Post Set up Python",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 15,
+                "started_at": "2025-09-16T08:43:46Z",
+                "completed_at": "2025-09-16T08:43:47Z"
+            },
+            {
+                "name": "Post Git checkout with submodules",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 16,
+                "started_at": "2025-09-16T08:43:47Z",
+                "completed_at": "2025-09-16T08:43:47Z"
+            },
+            {
+                "name": "Complete job",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 17,
+                "started_at": "2025-09-16T08:43:47Z",
+                "completed_at": "2025-09-16T08:43:48Z"
+            }
+        ],
+        "check_run_url": "https://api.github.com/repos/olliwang/hunter/check-runs/50470610794",
+        "labels": [
+            "macos-15"
+        ],
+        "runner_id": 1000000169,
+        "runner_name": "GitHub Actions 1000000169",
+        "runner_group_id": 0,
+        "runner_group_name": "GitHub Actions"
+    },
+    {
+        "id": 50470610801,
+        "run_id": 17760074149,
+        "workflow_name": "CI",
+        "head_branch": "master",
+        "run_url": "https://api.github.com/repos/olliwang/hunter/actions/runs/17760074149",
+        "run_attempt": 1,
+        "node_id": "CR_kwDOD6UAVs8AAAALwEhncQ",
+        "head_sha": "4e67b3051771857027d519dbb9f6854858d72fdb",
+        "url": "https://api.github.com/repos/olliwang/hunter/actions/jobs/50470610801",
+        "html_url": "https://github.com/olliwang/hunter/actions/runs/17760074149/job/50470610801",
+        "status": "completed",
+        "conclusion": "success",
+        "created_at": "2025-09-16T08:42:55Z",
+        "started_at": "2025-09-16T08:45:32Z",
+        "completed_at": "2025-09-16T08:46:42Z",
+        "name": "nlohmann_json mingw-cxx17 windows-2022",
+        "steps": [
+            {
+                "name": "Set up job",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 1,
+                "started_at": "2025-09-16T08:45:34Z",
+                "completed_at": "2025-09-16T08:45:35Z"
+            },
+            {
+                "name": "Git checkout with submodules",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 2,
+                "started_at": "2025-09-16T08:45:35Z",
+                "completed_at": "2025-09-16T08:45:47Z"
+            },
+            {
+                "name": "Download all workflow run artifacts",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 3,
+                "started_at": "2025-09-16T08:45:47Z",
+                "completed_at": "2025-09-16T08:45:49Z"
+            },
+            {
+                "name": "Set up Python",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 4,
+                "started_at": "2025-09-16T08:45:49Z",
+                "completed_at": "2025-09-16T08:45:49Z"
+            },
+            {
+                "name": "Set up Python environment variable (Unix)",
+                "status": "completed",
+                "conclusion": "skipped",
+                "number": 5,
+                "started_at": "2025-09-16T08:45:49Z",
+                "completed_at": "2025-09-16T08:45:49Z"
+            },
+            {
+                "name": "Set up Python environment variable (Windows)",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 6,
+                "started_at": "2025-09-16T08:45:49Z",
+                "completed_at": "2025-09-16T08:45:57Z"
+            },
+            {
+                "name": "Build on Unix",
+                "status": "completed",
+                "conclusion": "skipped",
+                "number": 7,
+                "started_at": "2025-09-16T08:45:57Z",
+                "completed_at": "2025-09-16T08:45:57Z"
+            },
+            {
+                "name": "Build on Windows",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 8,
+                "started_at": "2025-09-16T08:45:57Z",
+                "completed_at": "2025-09-16T08:46:39Z"
+            },
+            {
+                "name": "Post Set up Python",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 15,
+                "started_at": "2025-09-16T08:46:39Z",
+                "completed_at": "2025-09-16T08:46:39Z"
+            },
+            {
+                "name": "Post Git checkout with submodules",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 16,
+                "started_at": "2025-09-16T08:46:39Z",
+                "completed_at": "2025-09-16T08:46:40Z"
+            },
+            {
+                "name": "Complete job",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 17,
+                "started_at": "2025-09-16T08:46:40Z",
+                "completed_at": "2025-09-16T08:46:40Z"
+            }
+        ],
+        "check_run_url": "https://api.github.com/repos/olliwang/hunter/check-runs/50470610801",
+        "labels": [
+            "windows-2022"
+        ],
+        "runner_id": 1000000177,
+        "runner_name": "GitHub Actions 1000000177",
+        "runner_group_id": 0,
+        "runner_group_name": "GitHub Actions"
+    },
+    {
+        "id": 50470610828,
+        "run_id": 17760074149,
+        "workflow_name": "CI",
+        "head_branch": "master",
+        "run_url": "https://api.github.com/repos/olliwang/hunter/actions/runs/17760074149",
+        "run_attempt": 1,
+        "node_id": "CR_kwDOD6UAVs8AAAALwEhnjA",
+        "head_sha": "4e67b3051771857027d519dbb9f6854858d72fdb",
+        "url": "https://api.github.com/repos/olliwang/hunter/actions/jobs/50470610828",
+        "html_url": "https://github.com/olliwang/hunter/actions/runs/17760074149/job/50470610828",
+        "status": "completed",
+        "conclusion": "success",
+        "created_at": "2025-09-16T08:42:55Z",
+        "started_at": "2025-09-16T09:18:27Z",
+        "completed_at": "2025-09-16T09:19:28Z",
+        "name": "nlohmann_json msys-cxx17 windows-2022",
+        "steps": [
+            {
+                "name": "Set up job",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 1,
+                "started_at": "2025-09-16T09:18:27Z",
+                "completed_at": "2025-09-16T09:18:29Z"
+            },
+            {
+                "name": "Git checkout with submodules",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 2,
+                "started_at": "2025-09-16T09:18:29Z",
+                "completed_at": "2025-09-16T09:18:39Z"
+            },
+            {
+                "name": "Download all workflow run artifacts",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 3,
+                "started_at": "2025-09-16T09:18:39Z",
+                "completed_at": "2025-09-16T09:18:39Z"
+            },
+            {
+                "name": "Set up Python",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 4,
+                "started_at": "2025-09-16T09:18:39Z",
+                "completed_at": "2025-09-16T09:18:40Z"
+            },
+            {
+                "name": "Set up Python environment variable (Unix)",
+                "status": "completed",
+                "conclusion": "skipped",
+                "number": 5,
+                "started_at": "2025-09-16T09:18:40Z",
+                "completed_at": "2025-09-16T09:18:40Z"
+            },
+            {
+                "name": "Set up Python environment variable (Windows)",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 6,
+                "started_at": "2025-09-16T09:18:40Z",
+                "completed_at": "2025-09-16T09:18:47Z"
+            },
+            {
+                "name": "Build on Unix",
+                "status": "completed",
+                "conclusion": "skipped",
+                "number": 7,
+                "started_at": "2025-09-16T09:18:47Z",
+                "completed_at": "2025-09-16T09:18:47Z"
+            },
+            {
+                "name": "Build on Windows",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 8,
+                "started_at": "2025-09-16T09:18:47Z",
+                "completed_at": "2025-09-16T09:19:26Z"
+            },
+            {
+                "name": "Post Set up Python",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 15,
+                "started_at": "2025-09-16T09:19:26Z",
+                "completed_at": "2025-09-16T09:19:26Z"
+            },
+            {
+                "name": "Post Git checkout with submodules",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 16,
+                "started_at": "2025-09-16T09:19:26Z",
+                "completed_at": "2025-09-16T09:19:27Z"
+            },
+            {
+                "name": "Complete job",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 17,
+                "started_at": "2025-09-16T09:19:27Z",
+                "completed_at": "2025-09-16T09:19:27Z"
+            }
+        ],
+        "check_run_url": "https://api.github.com/repos/olliwang/hunter/check-runs/50470610828",
+        "labels": [
+            "windows-2022"
+        ],
+        "runner_id": 1000000293,
+        "runner_name": "GitHub Actions 1000000293",
+        "runner_group_id": 0,
+        "runner_group_name": "GitHub Actions"
+    },
+    {
+        "id": 50470610783,
+        "run_id": 17760074149,
+        "workflow_name": "CI",
+        "head_branch": "master",
+        "run_url": "https://api.github.com/repos/olliwang/hunter/actions/runs/17760074149",
+        "run_attempt": 1,
+        "node_id": "CR_kwDOD6UAVs8AAAALwEhnXw",
+        "head_sha": "4e67b3051771857027d519dbb9f6854858d72fdb",
+        "url": "https://api.github.com/repos/olliwang/hunter/actions/jobs/50470610783",
+        "html_url": "https://github.com/olliwang/hunter/actions/runs/17760074149/job/50470610783",
+        "status": "completed",
+        "conclusion": "success",
+        "created_at": "2025-09-16T08:42:55Z",
+        "started_at": "2025-09-16T09:07:25Z",
+        "completed_at": "2025-09-16T09:08:22Z",
+        "name": "nlohmann_json ninja-vs-17-2022-win64-cxx17 windows-2022",
+        "steps": [
+            {
+                "name": "Set up job",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 1,
+                "started_at": "2025-09-16T09:07:26Z",
+                "completed_at": "2025-09-16T09:07:27Z"
+            },
+            {
+                "name": "Git checkout with submodules",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 2,
+                "started_at": "2025-09-16T09:07:27Z",
+                "completed_at": "2025-09-16T09:07:37Z"
+            },
+            {
+                "name": "Download all workflow run artifacts",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 3,
+                "started_at": "2025-09-16T09:07:37Z",
+                "completed_at": "2025-09-16T09:07:37Z"
+            },
+            {
+                "name": "Set up Python",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 4,
+                "started_at": "2025-09-16T09:07:37Z",
+                "completed_at": "2025-09-16T09:07:37Z"
+            },
+            {
+                "name": "Set up Python environment variable (Unix)",
+                "status": "completed",
+                "conclusion": "skipped",
+                "number": 5,
+                "started_at": "2025-09-16T09:07:37Z",
+                "completed_at": "2025-09-16T09:07:37Z"
+            },
+            {
+                "name": "Set up Python environment variable (Windows)",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 6,
+                "started_at": "2025-09-16T09:07:37Z",
+                "completed_at": "2025-09-16T09:07:44Z"
+            },
+            {
+                "name": "Build on Unix",
+                "status": "completed",
+                "conclusion": "skipped",
+                "number": 7,
+                "started_at": "2025-09-16T09:07:44Z",
+                "completed_at": "2025-09-16T09:07:44Z"
+            },
+            {
+                "name": "Build on Windows",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 8,
+                "started_at": "2025-09-16T09:07:44Z",
+                "completed_at": "2025-09-16T09:08:20Z"
+            },
+            {
+                "name": "Post Set up Python",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 15,
+                "started_at": "2025-09-16T09:08:20Z",
+                "completed_at": "2025-09-16T09:08:20Z"
+            },
+            {
+                "name": "Post Git checkout with submodules",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 16,
+                "started_at": "2025-09-16T09:08:20Z",
+                "completed_at": "2025-09-16T09:08:21Z"
+            },
+            {
+                "name": "Complete job",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 17,
+                "started_at": "2025-09-16T09:08:21Z",
+                "completed_at": "2025-09-16T09:08:21Z"
+            }
+        ],
+        "check_run_url": "https://api.github.com/repos/olliwang/hunter/check-runs/50470610783",
+        "labels": [
+            "windows-2022"
+        ],
+        "runner_id": 1000000255,
+        "runner_name": "GitHub Actions 1000000255",
+        "runner_group_id": 0,
+        "runner_group_name": "GitHub Actions"
+    },
+    {
+        "id": 50470610814,
+        "run_id": 17760074149,
+        "workflow_name": "CI",
+        "head_branch": "master",
+        "run_url": "https://api.github.com/repos/olliwang/hunter/actions/runs/17760074149",
+        "run_attempt": 1,
+        "node_id": "CR_kwDOD6UAVs8AAAALwEhnfg",
+        "head_sha": "4e67b3051771857027d519dbb9f6854858d72fdb",
+        "url": "https://api.github.com/repos/olliwang/hunter/actions/jobs/50470610814",
+        "html_url": "https://github.com/olliwang/hunter/actions/runs/17760074149/job/50470610814",
+        "status": "completed",
+        "conclusion": "success",
+        "created_at": "2025-09-16T08:42:55Z",
+        "started_at": "2025-09-16T08:42:58Z",
+        "completed_at": "2025-09-16T08:44:06Z",
+        "name": "nlohmann_json nmake-vs-17-2022-win64-cxx17 windows-2022",
+        "steps": [
+            {
+                "name": "Set up job",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 1,
+                "started_at": "2025-09-16T08:42:59Z",
+                "completed_at": "2025-09-16T08:43:00Z"
+            },
+            {
+                "name": "Git checkout with submodules",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 2,
+                "started_at": "2025-09-16T08:43:00Z",
+                "completed_at": "2025-09-16T08:43:10Z"
+            },
+            {
+                "name": "Download all workflow run artifacts",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 3,
+                "started_at": "2025-09-16T08:43:10Z",
+                "completed_at": "2025-09-16T08:43:11Z"
+            },
+            {
+                "name": "Set up Python",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 4,
+                "started_at": "2025-09-16T08:43:11Z",
+                "completed_at": "2025-09-16T08:43:11Z"
+            },
+            {
+                "name": "Set up Python environment variable (Unix)",
+                "status": "completed",
+                "conclusion": "skipped",
+                "number": 5,
+                "started_at": "2025-09-16T08:43:11Z",
+                "completed_at": "2025-09-16T08:43:11Z"
+            },
+            {
+                "name": "Set up Python environment variable (Windows)",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 6,
+                "started_at": "2025-09-16T08:43:11Z",
+                "completed_at": "2025-09-16T08:43:20Z"
+            },
+            {
+                "name": "Build on Unix",
+                "status": "completed",
+                "conclusion": "skipped",
+                "number": 7,
+                "started_at": "2025-09-16T08:43:20Z",
+                "completed_at": "2025-09-16T08:43:20Z"
+            },
+            {
+                "name": "Build on Windows",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 8,
+                "started_at": "2025-09-16T08:43:20Z",
+                "completed_at": "2025-09-16T08:44:03Z"
+            },
+            {
+                "name": "Post Set up Python",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 15,
+                "started_at": "2025-09-16T08:44:03Z",
+                "completed_at": "2025-09-16T08:44:03Z"
+            },
+            {
+                "name": "Post Git checkout with submodules",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 16,
+                "started_at": "2025-09-16T08:44:03Z",
+                "completed_at": "2025-09-16T08:44:05Z"
+            },
+            {
+                "name": "Complete job",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 17,
+                "started_at": "2025-09-16T08:44:05Z",
+                "completed_at": "2025-09-16T08:44:05Z"
+            }
+        ],
+        "check_run_url": "https://api.github.com/repos/olliwang/hunter/check-runs/50470610814",
+        "labels": [
+            "windows-2022"
+        ],
+        "runner_id": 1000000167,
+        "runner_name": "GitHub Actions 1000000167",
+        "runner_group_id": 0,
+        "runner_group_name": "GitHub Actions"
+    },
+    {
+        "id": 50470610793,
+        "run_id": 17760074149,
+        "workflow_name": "CI",
+        "head_branch": "master",
+        "run_url": "https://api.github.com/repos/olliwang/hunter/actions/runs/17760074149",
+        "run_attempt": 1,
+        "node_id": "CR_kwDOD6UAVs8AAAALwEhnaQ",
+        "head_sha": "4e67b3051771857027d519dbb9f6854858d72fdb",
+        "url": "https://api.github.com/repos/olliwang/hunter/actions/jobs/50470610793",
+        "html_url": "https://github.com/olliwang/hunter/actions/runs/17760074149/job/50470610793",
+        "status": "completed",
+        "conclusion": "success",
+        "created_at": "2025-09-16T08:42:55Z",
+        "started_at": "2025-09-16T09:01:12Z",
+        "completed_at": "2025-09-16T09:01:34Z",
+        "name": "nlohmann_json osx-15-4-arch-universal2-cxx17 macos-15",
+        "steps": [
+            {
+                "name": "Set up job",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 1,
+                "started_at": "2025-09-16T09:01:13Z",
+                "completed_at": "2025-09-16T09:01:15Z"
+            },
+            {
+                "name": "Git checkout with submodules",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 2,
+                "started_at": "2025-09-16T09:01:15Z",
+                "completed_at": "2025-09-16T09:01:20Z"
+            },
+            {
+                "name": "Download all workflow run artifacts",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 3,
+                "started_at": "2025-09-16T09:01:20Z",
+                "completed_at": "2025-09-16T09:01:21Z"
+            },
+            {
+                "name": "Set up Python",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 4,
+                "started_at": "2025-09-16T09:01:21Z",
+                "completed_at": "2025-09-16T09:01:21Z"
+            },
+            {
+                "name": "Set up Python environment variable (Unix)",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 5,
+                "started_at": "2025-09-16T09:01:21Z",
+                "completed_at": "2025-09-16T09:01:21Z"
+            },
+            {
+                "name": "Set up Python environment variable (Windows)",
+                "status": "completed",
+                "conclusion": "skipped",
+                "number": 6,
+                "started_at": "2025-09-16T09:01:21Z",
+                "completed_at": "2025-09-16T09:01:21Z"
+            },
+            {
+                "name": "Build on Unix",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 7,
+                "started_at": "2025-09-16T09:01:21Z",
+                "completed_at": "2025-09-16T09:01:31Z"
+            },
+            {
+                "name": "Build on Windows",
+                "status": "completed",
+                "conclusion": "skipped",
+                "number": 8,
+                "started_at": "2025-09-16T09:01:31Z",
+                "completed_at": "2025-09-16T09:01:31Z"
+            },
+            {
+                "name": "Post Set up Python",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 15,
+                "started_at": "2025-09-16T09:01:31Z",
+                "completed_at": "2025-09-16T09:01:32Z"
+            },
+            {
+                "name": "Post Git checkout with submodules",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 16,
+                "started_at": "2025-09-16T09:01:32Z",
+                "completed_at": "2025-09-16T09:01:32Z"
+            },
+            {
+                "name": "Complete job",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 17,
+                "started_at": "2025-09-16T09:01:32Z",
+                "completed_at": "2025-09-16T09:01:32Z"
+            }
+        ],
+        "check_run_url": "https://api.github.com/repos/olliwang/hunter/check-runs/50470610793",
+        "labels": [
+            "macos-15"
+        ],
+        "runner_id": 1000000235,
+        "runner_name": "GitHub Actions 1000000235",
+        "runner_group_id": 0,
+        "runner_group_name": "GitHub Actions"
+    },
+    {
+        "id": 50470610791,
+        "run_id": 17760074149,
+        "workflow_name": "CI",
+        "head_branch": "master",
+        "run_url": "https://api.github.com/repos/olliwang/hunter/actions/runs/17760074149",
+        "run_attempt": 1,
+        "node_id": "CR_kwDOD6UAVs8AAAALwEhnZw",
+        "head_sha": "4e67b3051771857027d519dbb9f6854858d72fdb",
+        "url": "https://api.github.com/repos/olliwang/hunter/actions/jobs/50470610791",
+        "html_url": "https://github.com/olliwang/hunter/actions/runs/17760074149/job/50470610791",
+        "status": "completed",
+        "conclusion": "success",
+        "created_at": "2025-09-16T08:42:55Z",
+        "started_at": "2025-09-16T08:44:09Z",
+        "completed_at": "2025-09-16T08:45:30Z",
+        "name": "nlohmann_json vs-17-2022-win64-sdk-10-0-22000-0-cxx17 windows-2022",
+        "steps": [
+            {
+                "name": "Set up job",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 1,
+                "started_at": "2025-09-16T08:44:10Z",
+                "completed_at": "2025-09-16T08:44:12Z"
+            },
+            {
+                "name": "Git checkout with submodules",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 2,
+                "started_at": "2025-09-16T08:44:12Z",
+                "completed_at": "2025-09-16T08:44:24Z"
+            },
+            {
+                "name": "Download all workflow run artifacts",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 3,
+                "started_at": "2025-09-16T08:44:24Z",
+                "completed_at": "2025-09-16T08:44:26Z"
+            },
+            {
+                "name": "Set up Python",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 4,
+                "started_at": "2025-09-16T08:44:26Z",
+                "completed_at": "2025-09-16T08:44:26Z"
+            },
+            {
+                "name": "Set up Python environment variable (Unix)",
+                "status": "completed",
+                "conclusion": "skipped",
+                "number": 5,
+                "started_at": "2025-09-16T08:44:26Z",
+                "completed_at": "2025-09-16T08:44:26Z"
+            },
+            {
+                "name": "Set up Python environment variable (Windows)",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 6,
+                "started_at": "2025-09-16T08:44:26Z",
+                "completed_at": "2025-09-16T08:44:36Z"
+            },
+            {
+                "name": "Build on Unix",
+                "status": "completed",
+                "conclusion": "skipped",
+                "number": 7,
+                "started_at": "2025-09-16T08:44:36Z",
+                "completed_at": "2025-09-16T08:44:36Z"
+            },
+            {
+                "name": "Build on Windows",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 8,
+                "started_at": "2025-09-16T08:44:36Z",
+                "completed_at": "2025-09-16T08:45:25Z"
+            },
+            {
+                "name": "Post Set up Python",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 15,
+                "started_at": "2025-09-16T08:45:25Z",
+                "completed_at": "2025-09-16T08:45:26Z"
+            },
+            {
+                "name": "Post Git checkout with submodules",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 16,
+                "started_at": "2025-09-16T08:45:26Z",
+                "completed_at": "2025-09-16T08:45:27Z"
+            },
+            {
+                "name": "Complete job",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 17,
+                "started_at": "2025-09-16T08:45:27Z",
+                "completed_at": "2025-09-16T08:45:27Z"
+            }
+        ],
+        "check_run_url": "https://api.github.com/repos/olliwang/hunter/check-runs/50470610791",
+        "labels": [
+            "windows-2022"
+        ],
+        "runner_id": 1000000175,
+        "runner_name": "GitHub Actions 1000000175",
+        "runner_group_id": 0,
+        "runner_group_name": "GitHub Actions"
+    },
+    {
+        "id": 50470610788,
+        "run_id": 17760074149,
+        "workflow_name": "CI",
+        "head_branch": "master",
+        "run_url": "https://api.github.com/repos/olliwang/hunter/actions/runs/17760074149",
+        "run_attempt": 1,
+        "node_id": "CR_kwDOD6UAVs8AAAALwEhnZA",
+        "head_sha": "4e67b3051771857027d519dbb9f6854858d72fdb",
+        "url": "https://api.github.com/repos/olliwang/hunter/actions/jobs/50470610788",
+        "html_url": "https://github.com/olliwang/hunter/actions/runs/17760074149/job/50470610788",
+        "status": "completed",
+        "conclusion": "success",
+        "created_at": "2025-09-16T08:42:55Z",
+        "started_at": "2025-09-16T08:42:57Z",
+        "completed_at": "2025-09-16T08:44:06Z",
+        "name": "nlohmann_json vs-17-2022-win64-store-10-cxx17 windows-2022",
+        "steps": [
+            {
+                "name": "Set up job",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 1,
+                "started_at": "2025-09-16T08:42:58Z",
+                "completed_at": "2025-09-16T08:42:59Z"
+            },
+            {
+                "name": "Git checkout with submodules",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 2,
+                "started_at": "2025-09-16T08:42:59Z",
+                "completed_at": "2025-09-16T08:43:08Z"
+            },
+            {
+                "name": "Download all workflow run artifacts",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 3,
+                "started_at": "2025-09-16T08:43:08Z",
+                "completed_at": "2025-09-16T08:43:09Z"
+            },
+            {
+                "name": "Set up Python",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 4,
+                "started_at": "2025-09-16T08:43:09Z",
+                "completed_at": "2025-09-16T08:43:09Z"
+            },
+            {
+                "name": "Set up Python environment variable (Unix)",
+                "status": "completed",
+                "conclusion": "skipped",
+                "number": 5,
+                "started_at": "2025-09-16T08:43:09Z",
+                "completed_at": "2025-09-16T08:43:09Z"
+            },
+            {
+                "name": "Set up Python environment variable (Windows)",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 6,
+                "started_at": "2025-09-16T08:43:09Z",
+                "completed_at": "2025-09-16T08:43:15Z"
+            },
+            {
+                "name": "Build on Unix",
+                "status": "completed",
+                "conclusion": "skipped",
+                "number": 7,
+                "started_at": "2025-09-16T08:43:15Z",
+                "completed_at": "2025-09-16T08:43:15Z"
+            },
+            {
+                "name": "Build on Windows",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 8,
+                "started_at": "2025-09-16T08:43:15Z",
+                "completed_at": "2025-09-16T08:44:04Z"
+            },
+            {
+                "name": "Post Set up Python",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 15,
+                "started_at": "2025-09-16T08:44:04Z",
+                "completed_at": "2025-09-16T08:44:04Z"
+            },
+            {
+                "name": "Post Git checkout with submodules",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 16,
+                "started_at": "2025-09-16T08:44:04Z",
+                "completed_at": "2025-09-16T08:44:05Z"
+            },
+            {
+                "name": "Complete job",
+                "status": "completed",
+                "conclusion": "success",
+                "number": 17,
+                "started_at": "2025-09-16T08:44:05Z",
+                "completed_at": "2025-09-16T08:44:05Z"
+            }
+        ],
+        "check_run_url": "https://api.github.com/repos/olliwang/hunter/check-runs/50470610788",
+        "labels": [
+            "windows-2022"
+        ],
+        "runner_id": 1000000150,
+        "runner_name": "GitHub Actions 1000000150",
+        "runner_group_id": 0,
+        "runner_group_name": "GitHub Actions"
+    }
+]
